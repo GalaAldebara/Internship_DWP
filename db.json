@@ -1,0 +1,22 @@
+{
+  "users": [
+    { "id": 1, "email": "makmur@example.com", "password": "123456" },
+    { "id": 2, "email": "jane@example.com", "password": "password123" }
+  ],
+  "packages": [
+    { "id": 1, "name": "Paket Internet 1", "duration": "30 HARI", "price": 50000 },
+    { "id": 2, "name": "Paket Internet 2", "duration": "30 HARI", "price": 60000 },
+    { "id": 3, "name": "Paket Internet 3", "duration": "30 HARI", "price": 70000 },
+    { "id": 4, "name": "Paket Internet 4", "duration": "30 HARI", "price": 80000 },
+    { "id": 5, "name": "Paket Internet 5", "duration": "30 HARI", "price": 90000 },
+    { "id": 6, "name": "Paket Internet 6", "duration": "30 HARI", "price": 100000 },
+    { "id": 7, "name": "Paket Internet 7", "duration": "30 HARI", "price": 110000 },
+    { "id": 8, "name": "Paket Internet 8", "duration": "30 HARI", "price": 120000 },
+    { "id": 9, "name": "Paket Internet 9", "duration": "30 HARI", "price": 130000 }
+  ],
+  "transactions": [
+    { "id": 1, "userId": 1, "packageId": 1, "date": "2024-11-27" },
+    { "id": 2, "userId": 2, "packageId": 3, "date": "2024-11-28" },
+    { "id": 3, "userId": 3, "packageId": 4, "date": "2024-11-29" }
+  ]
+}
